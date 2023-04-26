@@ -11,7 +11,7 @@ on:
       git_commit_user_email:
         type: string
         description: 'Commit user email.'
-        default: 'firebase-oss-bot@ossbot.computer'
+        default: 'firebase-oss-bot@google.com'
         required: true
       git_commit_user_name:
         type: string
@@ -43,7 +43,7 @@ on:
       git_commit_user_email:
         type: string
         description: 'Commit user email.'
-        default: 'firebase-oss-bot@ossbot.computer'
+        default: 'firebase-oss-bot@google.com'
         required: true
       git_commit_user_name:
         type: string
